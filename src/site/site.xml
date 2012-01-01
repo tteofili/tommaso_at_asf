@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    Copyright 2009-2011 Simone Tripodi
+
+    Licensed under the Apache License, Version 2.0 (the "License");
+    you may not use this file except in compliance with the License.
+    You may obtain a copy of the License at
+
+        http://www.apache.org/licenses/LICENSE-2.0
+
+    Unless required by applicable law or agreed to in writing, software
+    distributed under the License is distributed on an "AS IS" BASIS,
+    WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+    See the License for the specific language governing permissions and
+    limitations under the License.
+-->
+<project name="${project.name}">
+
+  <skin>
+    <groupId>org.apache.maven.skins</groupId>
+    <artifactId>maven-fluido-skin</artifactId>
+    <version>1.0</version>
+  </skin>
+
+  <bannerLeft>
+    <name>${project.name}</name>
+    <src>images/logo.png</src>
+    <href>http://people.apache.org/~tommaso</href>
+  </bannerLeft>
+
+  <version position="left"/>
+
+  <body>
+    <links>
+      <item name="UIMA" href="http://cocoon.apache.org//3.0/index.html"/>
+      <item name="Clerezza" href="http://incubator.apache.org/projects/beanvalidation.html"/>
+      <item name="Amber" href="http://incubator.apache.org/projects/amber.html"/>
+      <item name="Stanbol" href="http://incubator.apache.org/stanbol"/>
+      <item name="Hama" href="http://incubator.apache.org/hama"/>
+      <item name="DirectMemory" href="http://incubator.apache.org/directmemory/"/>
+      <item name="ManifoldCF" href="http://incubator.apache.org/connectors"/>
+      <item name="Any23" href="http://incubator.apache.org/any23/"/>
+      <item name="Labs" href="http://labs.apache.org/"/>
+    </links>
+
+    <menu name="${project.name}">
+      <item name="Home" href="index.html"/>
+      <item name="Contacts" href="contacts.html"/>
+    </menu>
+
+    <menu name="Apache Projects">
+      <item name="Apache UIMA" href="uima.html"/>
+      <item name="Apache Clerezza" href="clerezza.html"/>
+      <item name="Apache Amber" href="amber.html"/>
+      <item name="Apache Stanbol" href="stanbol.html"/>
+      <item name="Apache Hama" href="hama.html"/>
+      <item name="Apache DirectMemory" href="directmemory.html"/>
+      <item name="Apache ManifoldCF" href="manifoldcf.html"/>
+      <item name="Apache Any23" href="any23.html"/>
+      <item name="Apache Labs" href="labs.html"/>
+      <item name="Apache Membership" href="membership.html"/>
+    </menu>
+
+    <menu name="Apache Friends">
+      <item name="Christian Grobmeier" href="http://people.apache.org/~grobmeier"/>
+      <item name="Maurizio Cucchiara" href="http://people.apache.org/~mcucchiara"/>
+      <item name="Simone Gianni" href="http://people.apache.org/~simoneg"/>
+      <item name="Simone Tripodi" href="http://people.apache.org/~simonetripodi"/>
+    </menu>
+
+    <menu ref="reports"/>
+  </body>
+
+</project>

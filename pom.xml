@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  <groupId>org.apache.people</groupId>
+  <artifactId>tommaso</artifactId>
+  <packaging>pom</packaging>
+  <version>1.0</version>
+  <name>Tommaso Teofili at ASF</name>
+  <url>http://people.apache.org/~tommaso/</url>
+  <organization>
+    <name>The Apache Software Foundation</name>
+    <url>http://www.apache.org/</url>
+  </organization>
+  <scm>
+    <url>http://github.com/tteofili/tommaso-at-asf</url>
+    <connection>scm:git:ssh://github.com/tteofili/tommaso-at-asf.git</connection>
+  </scm>
+  <mailingLists>
+    <mailingList>
+      <name>Personal mail</name>
+      <post>tommaso [at] apache [dot] org</post>
+    </mailingList>
+  </mailingLists>
+  <licenses>
+    <license>
+      <name>Apache License 2.0</name>
+      <url>http://www.apache.org/licenses/LICENSE-2.0.txt</url>
+    </license>
+  </licenses>
+  <developers>
+    <developer>
+      <id>tommaso</id>
+      <name>Tommaso Teofili</name>
+      <email>tommaso at apache dot org</email>
+      <roles>
+        <role>Owner</role>
+        <role>Committer</role>
+      </roles>
+      <timezone>+1</timezone>
+    </developer>
+  </developers>
+  <properties>
+    <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
+    <project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
+  </properties>
+  <build>
+    <plugins>
+      <plugin>
+        <groupId>org.apache.maven.plugins</groupId>
+        <artifactId>maven-site-plugin</artifactId>
+        <version>3.0</version>
+        <configuration>
+          <reportPlugins>
+            <plugin>
+              <groupId>org.apache.maven.plugins</groupId>
+              <artifactId>maven-project-info-reports-plugin</artifactId>
+              <version>2.4</version>
+              <reportSets>
+                <reportSet>
+                  <reports>
+                    <report>mailing-list</report>
+                    <report>index</report>
+                    <report>license</report>
+                  </reports>
+                </reportSet>
+              </reportSets>
+            </plugin>
+          </reportPlugins>
+        </configuration>
+      </plugin>
+    </plugins>
+  </build>
+</project>

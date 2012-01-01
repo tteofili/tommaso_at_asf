@@ -1,0 +1,15 @@
+                                    ------
+                                    Projects - Clerezza
+                                    ------
+                                    Tommaso Teofili
+                                    ------
+                                     2009
+
+Apache Clerezza
+
+ I got involved in Clerezza on November 2009, being contacted by Reto who was looking for mentors. At first I accepted
+ the mentorship but then I realized I could not be eligible for that since I am not in IPMC, so Bertrand proposed me
+ to contribute being a committer for the integration part with UIMA (see the proposal).
+
+ At the moment I mainly contributed in the process of setting up the projects, some lines of POMs, locking mechanism
+ for graphs and the integration between Clerezza and UIMA.

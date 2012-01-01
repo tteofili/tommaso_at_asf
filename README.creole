@@ -1,0 +1,3 @@
+these are the sources of my personal page on The Apache Software Foundation people website, check it out at
+[[http://people.apache.org/~tommaso|people.apache.org/~tommaso]].
+Special thanks to Simone Tripodi's [[http://people.apache.org/~simonetripodi|project]] from which I borrowed most of this project's structure.
