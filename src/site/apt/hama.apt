@@ -7,4 +7,15 @@
 
 Apache Hama
 
+  I came to know Apache Hama back in 2010 when I was looking for a robust Java framework for running parallel algorithms
+  for doing matrix multiplications for very huge matrixes. From then on I followed the project but kept silent for a while
+  on the mailing lists just trying to understand what the project status was and also if/how BSP based algorithms could
+  be the right fit for my use cases.
+
+  I then joined in as a mentor on March 2011 because the project was lacking of active mentors able to give help on the
+  community empowering and on the release process.
+
+  Now I am a very passionate user and developer (I am using it in a production system for doing parallel exports/imports
+  from MongoDB to Apache Solr) and I look forward to see the community grow and the project become a TLP.
+
 

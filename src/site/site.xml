@@ -48,6 +48,7 @@
       <item name="ManifoldCF" href="http://incubator.apache.org/connectors"/>
       <item name="Any23" href="http://incubator.apache.org/any23/"/>
       <item name="Labs" href="http://labs.apache.org/"/>
+      <item name="Lucene/Solr" href="http://lucene.apache.org/"/>
     </links>
 
     <menu name="${project.name}">
@@ -66,6 +67,7 @@
       <item name="Apache Any23" href="any23.html"/>
       <item name="Apache Labs" href="labs.html"/>
       <item name="Apache Membership" href="membership.html"/>
+      <item name="Apache Lucene/Solr" href="lucenesolr.html"/>
     </menu>
 
     <menu name="Apache Friends">
