@@ -15,5 +15,5 @@ Apache Clerezza
  for graphs and the {{{http://incubator.apache.org/clerezza/clerezza-uima/}integration between Clerezza and UIMA}} .
 
  Also I am collaborating with Paolo Ciccarese from the Harvard Medical School with his project called
- {{http://annotationframework.org{DOMEO}}} which is using the Clerezza-UIMA integration to leverage text mining services
+ {{{http://annotationframework.org}DOMEO}} which is using the Clerezza-UIMA integration to leverage text mining services
  which share their contents with RDF "speaking" a common ontology (called AnnotationOntology) language.
