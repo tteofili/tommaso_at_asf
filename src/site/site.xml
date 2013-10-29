@@ -49,6 +49,7 @@
       <item name="Any23" href="http://incubator.apache.org/any23/"/>
       <item name="Labs" href="http://labs.apache.org/"/>
       <item name="Lucene/Solr" href="http://lucene.apache.org/"/>
+      <item name="Jackrabbit" href="http://jackrabbit.apache.org/"/>
     </links>
 
     <menu name="${project.name}">
@@ -68,6 +69,7 @@
       <item name="Apache Labs" href="labs.html"/>
       <item name="Apache Membership" href="membership.html"/>
       <item name="Apache Lucene/Solr" href="lucenesolr.html"/>
+      <item name="Apache Jackrabbit" href="jackrabbit.html"/>
     </menu>
 
     <menu name="Apache Friends">
