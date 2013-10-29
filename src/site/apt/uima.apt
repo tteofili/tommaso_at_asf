@@ -11,9 +11,9 @@ Apache UIMA
   degli Studi Roma Tre. For some time I've been a user partecipating on the mailing list, then I started contributing on
   June 2009 and after some successfull contribution stories I've been offered the committership on August 2009.
 
-  My main contributions so far are on the sandbox/addons components and on the build/packaging side with Apache Maven.
+  My main contributions were at first on the sandbox/addons components and on the build/packaging side with Apache Maven.
   I've been at IKS (Interactive Knowledge Stack) 2nd Workshop on 13th November 2009 in Rome presenting (slides) a couple
-  of demos on UIMA and Semantic Search (audioless screencast) .
+  of demos on UIMA and Semantic Search.
 
   On March 2010 me and Simone Tripodi made an IP Clearance for the AlchemyAPI Annotator that is now inside the Sandbox.
   AlchemyAPI Annotator is a set of Analysis Engines wrapping Alchemy API web services (just like OpenCalaisAnnotator
@@ -21,6 +21,8 @@ Apache UIMA
 
   On May 2010 I have presented a topic called "Information Extraction on the Web" with three lessons held at my college
   (Roma Tre) during the "Information Management on the Web" course for the master degree in Computer Engineering.
-  The slides can be found at: Data and Information Extraction on the Web, Apache UIMA and Metadata Generation,
+  The slides can be found on my slideshare account and regard: Data and Information Extraction on the Web, Apache UIMA and Metadata Generation,
   Information Extraction with UIMA - Use Cases.
 
+  In the recent past my contributions mostly regard the addons projects, particularly SolrCas which is a CAS consumer 
+  used to write annotations into a Solr instance.

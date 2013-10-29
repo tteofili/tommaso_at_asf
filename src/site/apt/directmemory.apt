@@ -11,5 +11,7 @@ Apache DirectMemory
     My main contribution there is about the integration with Apache Solr which
     provides a SolrCache<K,V> class which can be leveraged as an off heap cache
     inside Apache Solr.
+    Also I've worked on the integration within other projects like Apache Hama 
+    for off heap storage of graph vertices and Apache Jackrabbit Oak for L2 cache.
 
     Apache DirectMemory has now graduated and is a full TLP Apache project.

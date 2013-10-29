@@ -1,0 +1,17 @@
+                                    ------
+                                    Projects - Stanbol
+                                    ------
+                                    Tommaso Teofili
+                                    ------
+                                     2013
+
+Apache Jackrabbit
+
+  I've been invited to become a committer and PMC member of Apache Jackrabbit in
+  2013.
+  My main contributions regard the next generation content repository called 'Oak'.
+  In particular I am working on the search side, both on the API and on the 
+  implementations.
+  I developed the Solr indexer to support distributed scalable indexing and search
+  in Oak.
+  I presented this work at adaptTo2012 and adaptTo2013 in Berlin.

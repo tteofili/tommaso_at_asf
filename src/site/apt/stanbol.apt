@@ -7,4 +7,8 @@
 
 Apache Stanbol
 
-
+  I've been involved in Apache Stanbol since its inception as I was participating
+  to the IKS EU founded project which originated it.
+  I started as a committer but then "moved" to be mostly a mentor during the incubation.
+  My main contributions are related to the parts of Stanbol that rely on Apache Solr 
+  (stanbol.solr.commons.core) and the integration with Apache UIMA.

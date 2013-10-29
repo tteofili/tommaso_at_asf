@@ -15,12 +15,11 @@ Apache Hama
   I then joined in as a mentor on March 2011 because the project was lacking of active mentors able to give help on the
   community empowering and on the release process.
 
-  Now I am a very passionate user and developer (I used it in a production system for doing parallel exports/imports
-  from MongoDB to Apache Solr).
-  It's nice to see the community has grown incredibly in the last year therefore I'm a bit proud about the project having
-  become a TLP.
+  I used Apache Hama in a production system for doing parallel exports/imports   from MongoDB to Apache Solr.
+  It's nice to see the community has grown from its early start.
 
-  I'm working now with Apache Hama especially for machine learning tasks and that's the area my latest contributions belong.
+  I'm working now with Apache Hama especially for machine learning tasks and that's the area my latest contributions belong to.
+  I also worked on the off heap storage for graph vertices based on Apache DirectMemory.
 
 
 
