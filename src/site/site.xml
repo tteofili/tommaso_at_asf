@@ -59,7 +59,7 @@
     <menu name="Apache Projects">
       <item name="Apache UIMA" href="uima.html"/>
       <item name="Apache Clerezza" href="clerezza.html"/>
-      <item name="Apache Amber" href="amber.html"/>
+      <item name="Apache Oltu" href="amber.html"/>
       <item name="Apache Stanbol" href="stanbol.html"/>
       <item name="Apache Hama" href="hama.html"/>
       <item name="Apache DirectMemory" href="directmemory.html"/>
